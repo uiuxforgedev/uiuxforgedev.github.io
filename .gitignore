@@ -1,3 +1,7 @@
 ".vs/" 
 ".vs/" 
 *.vsidx
+.vs/uiuxforgedev.github.io/v17/DocumentLayout.json
+.vs/uiuxforgedev.github.io/v17/.wsuo
+.vs/slnx.sqlite
+*.config
