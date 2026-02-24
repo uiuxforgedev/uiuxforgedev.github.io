@@ -78,7 +78,7 @@ section {
     top: 0;
 
     width: 100%; /* full width */
-    background: rgba(15, 23, 42, 0.9);
+    background: rgb(0, 0, 0, 0.90);
     backdrop-filter: blur(8px);
     height: 100px;
     z-index: 1000;
@@ -129,6 +129,17 @@ hr {
         display: flex;
     }
 
+
+
+.featured-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.featured-card {
+    max-width: 520px;
+    width: fit-content;
+}
 
 .product-list {
     display: grid;
